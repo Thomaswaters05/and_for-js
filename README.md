@@ -38,7 +38,7 @@ President #3 was Thomas Jefferson
 
 ...
 ```
--Iterates over the object below. Results will be in the console log/dev tools (Object Iteration)
+- Iterates over the object below. Results will be in the console log/dev tools (Object Iteration)
 ```
 var antSpecies = {
   argentine: {},
